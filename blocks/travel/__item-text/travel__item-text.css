@@ -1,0 +1,6 @@
+.travel__item-text {
+  padding: 70px 0 75px 90px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
