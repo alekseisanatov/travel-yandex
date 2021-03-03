@@ -11,3 +11,12 @@
 @import url('../blocks/travel/__text/travel__text.css');
 @import url('../blocks/travel/__image/travel__image.css');
 @import url('../blocks/travel/__paragraph/travel__paragraph.css');
+
+@import url('../blocks/destination/destination.css');
+@import url('../blocks/destination/__form-container/destination__form-container.css');
+@import url('../blocks/destination/__title/destination__title.css');
+@import url('../blocks/destination/__text/destination__text.css');
+@import url('../blocks/destination/__button/destination__button.css');
+@import url('../blocks/destination/__image/destination__image.css');
+@import url('../blocks/destination/__form/destination__form.css');
+@import url('../blocks/destination/__textarea/destination__textarea.css');

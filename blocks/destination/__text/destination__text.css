@@ -1,0 +1,13 @@
+.destination__text {
+  box-sizing: border-box;
+  padding: 5px 0 5px 10px;
+  display: block;
+  width: 100%;
+  margin-bottom: 20px;
+  font-size: 15px;
+  border: 0;
+}
+
+.destination__text::placeholder {
+  color: #000;
+}
