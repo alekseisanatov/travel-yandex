@@ -1,0 +1,4 @@
+.intro__image {
+    max-width: 384px;
+    object-fit: cover;
+}
