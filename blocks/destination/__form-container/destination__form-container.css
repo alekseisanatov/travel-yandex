@@ -1,3 +1,22 @@
 .destination__form-container {
   padding-left: 70px;
 }
+
+@media screen and (max-width: 1023px) {
+  .destination__form-container {
+    padding-left: 20px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .destination__form-container {
+    grid-row: 2/3;
+    padding: 50px;
+  }
+}
+
+@media screen and (max-width: 419px) {
+  .destination__form-container {
+    padding: 20px;
+  }
+}

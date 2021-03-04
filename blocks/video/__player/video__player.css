@@ -1,0 +1,10 @@
+.video__player {
+  width: 100%;
+}
+
+@media screen and (max-width: 575px) {
+  .video__player {
+    min-height: 300px;
+    object-fit: cover;
+  }
+}

@@ -7,3 +7,18 @@
   grid-auto-rows: 575px;
   list-style-type: none;
 }
+
+@media screen and (max-width: 767px) {
+  .travel__grid {
+    grid-template-rows: repeat(3, 500px);
+    grid-auto-rows: 500px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .travel__grid {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(6, 400px);
+    grid-auto-rows: 400px;
+  }
+}

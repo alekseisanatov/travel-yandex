@@ -1,0 +1,5 @@
+@media screen and (max-width: 575px) {
+  .travel__item_mobile_top {
+    grid-row: 2/3;
+  }
+}
