@@ -20,3 +20,11 @@
 @import url('../blocks/destination/__image/destination__image.css');
 @import url('../blocks/destination/__form/destination__form.css');
 @import url('../blocks/destination/__textarea/destination__textarea.css');
+
+@import url('../blocks/talk/talk.css');
+@import url('../blocks/talk/__subtitle/talk__subtitle.css');
+@import url('../blocks/talk/__title/talk__title.css');
+@import url('../blocks/talk/__text/talk__text.css');
+@import url('../blocks/talk/__item/talk__item.css');
+@import url('../blocks/talk/__item_title/talk__item_title.css');
+@import url('../blocks/talk/__container/talk__container.css');
