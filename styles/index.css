@@ -20,3 +20,5 @@
 @import url('../blocks/destination/__image/destination__image.css');
 @import url('../blocks/destination/__form/destination__form.css');
 @import url('../blocks/destination/__textarea/destination__textarea.css');
+
+@import url('../blocks/video/__player/video__player.css');
