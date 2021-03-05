@@ -1,0 +1,9 @@
+.talk__container {
+  margin: 0;
+  padding: 0;
+  margin-top: 130px;
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  column-gap: 65px;
+}
