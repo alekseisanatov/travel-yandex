@@ -2,15 +2,7 @@
     max-width: 100%;
 }
 
-@media screen and (max-width: 575px) {
-    .intro__box {
-        margin: 0 20px;
-    }
-}
-
-
 @media screen and (max-width: 419px) {
     .intro__box {
-        margin: 0 20px;
-    }
+        padding: 0 20px;
 }
