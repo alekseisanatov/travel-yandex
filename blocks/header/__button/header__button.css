@@ -6,7 +6,12 @@
     font-weight: 700;
     font-size: 13px;
     padding: 0;
+    transition: transform 0.5s;
 
+}
+
+.header__button:hover {
+    transform: translateY(-3px);
 }
 
 .header__button:focus {
