@@ -12,9 +12,10 @@
     transform: translateY(-3px);
 }
 
-@media screen and (max-width: 419px) {
+@media screen and (max-width: 575px) {
     .header__link {
-        margin: 0 10px;
+        text-align: center;
+        margin: 0;
     }
 }
 

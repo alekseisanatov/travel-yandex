@@ -48,9 +48,3 @@
 
     }
 }
-
-@media screen and (max-width: 419px) {
-    .intro {
-        margin: 0 auto;
-    }
-}

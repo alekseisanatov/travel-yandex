@@ -18,7 +18,7 @@
     outline: 0;
 }
 
-@media screen and (max-width: 472px) {
+@media screen and (max-width: 575px) {
     .header__button {
         margin-top: 25px;
     }
