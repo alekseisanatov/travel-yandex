@@ -31,4 +31,6 @@
 @import url('../blocks/talk/__item_title/talk__item_title.css');
 @import url('../blocks/talk/__container/talk__container.css');
 
+@import url('../blocks/video/video.css');
 @import url('../blocks/video/__player/video__player.css');
+@import url('../blocks/video/__title/video__title.css');

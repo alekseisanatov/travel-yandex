@@ -1,3 +1,9 @@
 .talk__item {
   max-width: 250px;
 }
+
+@media screen and (max-width: 419px) {
+  .talk__item {
+    margin: 0 auto;
+  }
+}

@@ -3,3 +3,9 @@
   margin-top: 35px;
   max-width: 440px;
 }
+
+@media screen and (max-width: 419px) {
+  .talk__title {
+    text-align: center;
+  }
+}
