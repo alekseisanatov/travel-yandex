@@ -1,0 +1,14 @@
+.footer__title {
+    font-weight: 700;
+    font-size: 35px;
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (max-width: 419px) {
+    .footer__title {
+        font-size: 25px;
+    }
+}
