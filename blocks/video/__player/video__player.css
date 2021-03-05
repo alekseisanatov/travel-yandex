@@ -1,0 +1,28 @@
+.video__player {
+  width: 100%;
+  min-height: 670px;
+  object-fit: cover;
+}
+
+.video__player:focus {
+  outline: 0;
+}
+
+@media screen and (max-width: 1023px) {
+  .video__player {
+    min-height: 500px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .video__player {
+    min-height: 400px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .video__player {
+    min-height: 300px;
+  }
+}
+

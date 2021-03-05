@@ -3,3 +3,9 @@
   font-size: 13px;
   text-transform: uppercase;
 }
+
+@media screen and (max-width: 419px) {
+  .talk__item_title {
+    text-align: center;
+  }
+}

@@ -2,3 +2,16 @@
   margin-top: 150px;
   max-width: 270px;
 }
+
+@media screen and (max-width: 1023px) {
+  .destination__title {
+    margin-top: 70px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .destination__title {
+    margin-top: 0;
+    max-width: 350px;
+  }
+}

@@ -8,3 +8,9 @@
 .travel__text:last-child {
   margin-bottom: 0;
 }
+
+@media screen and (max-width: 1023px) {
+  .travel__text {
+    margin-bottom: 15px;
+  }
+}
