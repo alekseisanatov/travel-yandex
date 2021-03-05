@@ -9,13 +9,13 @@
 
 @media screen and (max-width: 767px) {
     .header {
-        width: calc(100% - 2*65px);
+        width: calc(100% - 2*50px);
     }
 }
 
 @media screen and (max-width: 575px) {
     .header {
-        width: calc(100% - 2*30px);
+        width: calc(100% - 2*20px);
         
     }
 }
@@ -30,5 +30,6 @@
 @media screen and (max-width: 419px) {
     .header {
         width: calc(100% - 2*20px);
+        margin-top: 30px;
     }
 }
