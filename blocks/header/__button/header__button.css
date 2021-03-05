@@ -1,0 +1,25 @@
+.header__button {
+    color: #000;
+    border-style: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 13px;
+    padding: 0;
+    transition: transform 0.5s;
+
+}
+
+.header__button:hover {
+    transform: translateY(-3px);
+}
+
+.header__button:focus {
+    outline: 0;
+}
+
+@media screen and (max-width: 575px) {
+    .header__button {
+        margin-top: 25px;
+    }
+}
